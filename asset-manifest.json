@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mohammedeloujdani/react-blog/static/css/main.d906ef95.css",
+    "main.js": "/mohammedeloujdani/react-blog/static/js/main.e6208ffa.js",
+    "static/media/profile.PNG": "/mohammedeloujdani/react-blog/static/media/profile.b54c6ea05f15d020951d.PNG",
+    "index.html": "/mohammedeloujdani/react-blog/index.html",
+    "main.d906ef95.css.map": "/mohammedeloujdani/react-blog/static/css/main.d906ef95.css.map",
+    "main.e6208ffa.js.map": "/mohammedeloujdani/react-blog/static/js/main.e6208ffa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d906ef95.css",
+    "static/js/main.e6208ffa.js"
+  ]
+}
